@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Mentoria.POO")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+984b65d9ad185ea869404beaaf776292ba1aa10e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Mentoria.POO")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Mentoria.POO")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,4 @@
+C:\Michael\FISApp\Projetos\Mentoria\MentoriaKariny\MentoriaKariny\MentoriaKariny\obj\Debug\net9.0\MentoriaKariny.GeneratedMSBuildEditorConfig.editorconfig
+C:\Michael\FISApp\Projetos\Mentoria\MentoriaKariny\MentoriaKariny\MentoriaKariny\obj\Debug\net9.0\MentoriaKariny.AssemblyInfoInputs.cache
+C:\Michael\FISApp\Projetos\Mentoria\MentoriaKariny\MentoriaKariny\MentoriaKariny\obj\Debug\net9.0\MentoriaKariny.AssemblyInfo.cs
+C:\Michael\FISApp\Projetos\Mentoria\MentoriaKariny\MentoriaKariny\MentoriaKariny\obj\Debug\net9.0\MentoriaKariny.csproj.CoreCompileInputs.cache

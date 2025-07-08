@@ -1,0 +1,14 @@
+C:\Michael\FISApp\Projetos\Mentoria\MentoriaKariny\MentoriaKariny\Mentoria.POO\bin\Release\net9.0\Mentoria.POO.exe
+C:\Michael\FISApp\Projetos\Mentoria\MentoriaKariny\MentoriaKariny\Mentoria.POO\bin\Release\net9.0\Mentoria.POO.deps.json
+C:\Michael\FISApp\Projetos\Mentoria\MentoriaKariny\MentoriaKariny\Mentoria.POO\bin\Release\net9.0\Mentoria.POO.runtimeconfig.json
+C:\Michael\FISApp\Projetos\Mentoria\MentoriaKariny\MentoriaKariny\Mentoria.POO\bin\Release\net9.0\Mentoria.POO.dll
+C:\Michael\FISApp\Projetos\Mentoria\MentoriaKariny\MentoriaKariny\Mentoria.POO\bin\Release\net9.0\Mentoria.POO.pdb
+C:\Michael\FISApp\Projetos\Mentoria\MentoriaKariny\MentoriaKariny\Mentoria.POO\obj\Release\net9.0\Mentoria.POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Michael\FISApp\Projetos\Mentoria\MentoriaKariny\MentoriaKariny\Mentoria.POO\obj\Release\net9.0\Mentoria.POO.AssemblyInfoInputs.cache
+C:\Michael\FISApp\Projetos\Mentoria\MentoriaKariny\MentoriaKariny\Mentoria.POO\obj\Release\net9.0\Mentoria.POO.AssemblyInfo.cs
+C:\Michael\FISApp\Projetos\Mentoria\MentoriaKariny\MentoriaKariny\Mentoria.POO\obj\Release\net9.0\Mentoria.POO.csproj.CoreCompileInputs.cache
+C:\Michael\FISApp\Projetos\Mentoria\MentoriaKariny\MentoriaKariny\Mentoria.POO\obj\Release\net9.0\Mentoria.POO.dll
+C:\Michael\FISApp\Projetos\Mentoria\MentoriaKariny\MentoriaKariny\Mentoria.POO\obj\Release\net9.0\refint\Mentoria.POO.dll
+C:\Michael\FISApp\Projetos\Mentoria\MentoriaKariny\MentoriaKariny\Mentoria.POO\obj\Release\net9.0\Mentoria.POO.pdb
+C:\Michael\FISApp\Projetos\Mentoria\MentoriaKariny\MentoriaKariny\Mentoria.POO\obj\Release\net9.0\Mentoria.POO.genruntimeconfig.cache
+C:\Michael\FISApp\Projetos\Mentoria\MentoriaKariny\MentoriaKariny\Mentoria.POO\obj\Release\net9.0\ref\Mentoria.POO.dll
